@@ -4,7 +4,7 @@
 
 ---
 
-## Export the ZONE :
+## Export the REGION :
 
 ```
 export REGION=
